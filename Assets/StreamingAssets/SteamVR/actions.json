@@ -50,8 +50,8 @@
       "type": "boolean"
     },
     {
-      "name": "/actions/default/in/NewAction",
-      "type": "boolean"
+      "name": "/actions/default/in/Joystick",
+      "type": "vector2"
     },
     {
       "name": "/actions/default/out/Haptic",
